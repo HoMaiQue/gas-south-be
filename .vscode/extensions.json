@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "intellsmi.comment-translate",
+    "irongeek.vscode-env",
+    "usernamehw.errorlens",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "ChakrounAnas.turbo-console-log"
+  ]
+}

@@ -1,0 +1,7 @@
+module.exports = {
+  CHO_XAC_NHAN: "CHO_XAC_NHAN",
+  XAC_NHAN: "XAC_NHAN",
+  DANG_GIAO: "DANG_GIAO",
+  DA_HOAN_THANH: "DA_HOAN_THANH",
+  DA_HUY: "DA_HUY",
+};
